@@ -1,0 +1,39 @@
+/* Font color and font family styles */
+body {
+    color: #fa0202;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Box styles */
+  .box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+  
+  .red {
+    background-color: red;
+    color: white;
+  }
+  
+  .blue {
+    background-color: blue;
+    color: white;
+  }
+  
+  .green {
+    background-color: green;
+    color: white;
+  }
+  .fontsize {
+    font-size: xx-large;
+  }
+  .fontcolor {
+    color: black;
+  }
+  
